@@ -5,6 +5,8 @@
  * Date: 14/03/2019
  * Time: 3:38 PM
  */
+
+namespace Miclase;
 class User{
     public $nombre;
 
